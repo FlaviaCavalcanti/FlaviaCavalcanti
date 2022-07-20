@@ -6,12 +6,12 @@
 
 <div align="center">
   <a href="https://github.com/FlaviaCavalcanti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCavalcanti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
 
 <div style="display: inline_block"><br>
-<br>• <img align="center" alt="Fla-java" height="42" width="32"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<br>• <img align="center" alt="Fla-java" height="52" width="42"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 ##
 <div>
