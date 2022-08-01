@@ -1,4 +1,8 @@
-### Olá!! Eu sou a Flávia Cavalcanti 👋
+
+
+### Olá!! Eu sou a Flávia Cavalcanti <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=4E72F7&height=70&lines=Desenvolvedora+Java+Full+Stack+Junior" alt="Typing SVG" /></a>
 
 - 🔭 Estudando na bootcamp da Generation
 - 📫 Contate-me no email: flavia.mayara2503@gmail.com
