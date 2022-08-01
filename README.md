@@ -2,8 +2,10 @@
 
 ### Olá!! Eu sou a Flávia Cavalcanti <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=6500&color=4E72F7&height=70&lines=Desenvolvedora+Java+Full+Stack+Junior" alt="Typing SVG" /></a>
-
+</p>
+  
 - 🔭 Estudando na bootcamp da Generation
 - 📫 Contate-me no email: flavia.mayara2503@gmail.com
 - 😄 Pronouns: Ela/Dela
@@ -19,7 +21,8 @@
 
 ##
 <div>
+ <p align="center">
 <a href="https://www.linkedin.com/in/fl%C3%A1via-cavalcanti-7993aa234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+</p>
   ![Snake animation](https://github.com/FlaviaCavalcanti/FlaviaCavalcanti/blob/output/github-contribution-grid-snake.svg)
   </div>
