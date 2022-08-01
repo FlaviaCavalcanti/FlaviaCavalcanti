@@ -21,8 +21,7 @@
 
 ##
 <div>
- <p align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/fl%C3%A1via-cavalcanti-7993aa234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-  ![Snake animation](https://github.com/FlaviaCavalcanti/FlaviaCavalcanti/blob/output/github-contribution-grid-snake.svg)
   </div>
+  </p>
