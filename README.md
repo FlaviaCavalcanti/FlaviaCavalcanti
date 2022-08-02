@@ -17,7 +17,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<br>• <img align="center" alt="Fla-java" height="52" width="42"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<br> <img align="center" alt="Fla-java" height="62" width="52"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 ##
 <div>
