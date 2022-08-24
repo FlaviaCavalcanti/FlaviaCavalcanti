@@ -4,7 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=BD2991&center=falso&vCenter=falso&width=450&lines=Desenvolvedora+Java+Junior" alt="Typing SVG" /></a>
 </p>
   
-- 🔭 Estudando na bootcamp da Generation
 - 📫 Contate-me no email: flavia.mayara2503@gmail.com
 - 😄 Pronouns: Ela/Dela
 
