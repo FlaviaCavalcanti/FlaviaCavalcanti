@@ -5,7 +5,7 @@
 </p>
   
 - 📫 Contate-me no email: flavia.mayara2503@gmail.com
-- 😄 Pronouns: Ela/Dela
+
 
 
 <div align="center">
