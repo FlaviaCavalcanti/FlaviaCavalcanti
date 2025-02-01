@@ -1,6 +1,7 @@
 
 ### Olá, Sou a Flávia!     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <p align="center">
+  <img align="right" height="180" src="https://i.pinimg.com/736x/60/f8/e6/60f8e623cf847f676bcace6743506b0e.jpg"  />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=BD2991&center=falso&vCenter=falso&width=450&lines=Desenvolvedora+Back-End" alt="Typing SVG" /></a>
 </p>
 
@@ -9,8 +10,7 @@
 - 📫 Contate-me no email: flavia.mayara2503@gmail.com
 
 <div align="center">
-  <a href="https://github.com/FlaviaCavalcanti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=FlaviaCavalcanti&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="188" alt="stats graph"  />
  </p>
  
  <div>
