@@ -8,12 +8,9 @@
   
 - 📫 Contate-me no email: flavia.mayara2503@gmail.com
 
-
-
 <div align="center">
   <a href="https://github.com/FlaviaCavalcanti">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCavalcanti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
  </p>
  
  <div>
@@ -21,12 +18,17 @@
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Flavia-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Flavia-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="Flavia - GO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-plain.svg" />
+  <img align="center" alt="FLAVIA - PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+  
+
   <img align="center" alt="Flavia - html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Flavia - css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Flavia - MySql" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="Flavia - MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="Flavia - MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   
+         
 </p>
 
 <div>
