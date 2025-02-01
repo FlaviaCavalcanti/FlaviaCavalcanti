@@ -13,7 +13,7 @@
  </p>
  
  <div>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="37" alt="java logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="37" alt="go logo"  />
