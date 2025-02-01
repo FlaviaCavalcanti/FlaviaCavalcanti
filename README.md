@@ -14,23 +14,21 @@
  </p>
  
  <div>
-<p align="center">
-<div style="display: inline_block"><br>
-
-  <img align="center" alt="Flavia-JAVA" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="Flavia - GO" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-plain.svg" />
-  <img align="center" alt="FLAVIA - PYTHON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-  
-
-  <img align="center" alt="Flavia - html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Flavia - css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Flavia - MySql" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Flavia - MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  
-         
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="37" alt="java logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="37" alt="go logo"  />
+  <img width="11" />
+  <img src="https://skillicons.dev/icons?i=py" height="37" alt="python logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="37" alt="microsoftsqlserver logo"  />
+  <img width="11" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="37" alt="bootstrap logo"  />
+</div>
 <div>
 <p align="center">
 
