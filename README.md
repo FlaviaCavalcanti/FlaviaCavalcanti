@@ -1,5 +1,5 @@
 
-### Olá!  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Olá, Sou a Flávia!     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=BD2991&center=falso&vCenter=falso&width=450&lines=Desenvolvedora+Java+Junior" alt="Typing SVG" /></a>
 </p>
