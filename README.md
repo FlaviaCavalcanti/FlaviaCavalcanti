@@ -1,8 +1,8 @@
 
-### Olá, Sou a Flávia!     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+### Olá, Sou a Flávia     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=BD2991&center=falso&vCenter=falso&width=450&lines=Desenvolvedora+Back-End" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71696&width=435&lines=Desenvolvedora+Full+Stack" alt="Typing SVG" /></a></p>
+
 
 <img align="right" height="229" src="https://i.pinimg.com/736x/60/f8/e6/60f8e623cf847f676bcace6743506b0e.jpg"  />
 
